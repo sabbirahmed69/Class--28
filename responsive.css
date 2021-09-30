@@ -1,0 +1,26 @@
+@media(max-width:1400px){
+    .banner2-text{
+        margin-left: 130px !important;
+    }
+}
+@media(max-width:1200px){
+    .banner2-text {
+        margin-left: 14px !important;
+    }
+}
+@media(max-width:1000px){
+    .banner2-text {
+        margin-left: 45px !important;
+    }
+}
+@media(max-width:576px){
+    img{
+        vertical-align: middle;
+        width: 100%;
+    }
+    .name-section img {
+        width: 100%;
+        position: relative;
+        left: -46px;
+    }
+}

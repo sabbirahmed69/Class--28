@@ -1,0 +1,90 @@
+.navbar-brand img{
+    width: 80px;
+}
+.banner-text{
+    margin-top: 200px !important;
+}
+.span{
+    font-size: 16px;
+    font-weight: 600;
+}
+.head{
+    font-size: 33px;
+    font-weight: 400 !important;
+}
+.btns{
+    background: #8392ff;
+}
+
+.name-section img{
+    width: 400px;
+}
+
+.banner2-text{
+    margin-top: 10% !important;
+}
+
+
+.mission{
+    background: #8392ff;
+
+}
+.mission span{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.text-main h4{
+ font-weight: 400;
+ font-size: 35px;
+}
+.erap {
+    width: 100px !important;
+    height: 100px !important;
+    line-height: 50px;
+}
+.box-wrapper ul li{
+    font-size: 18px;
+    color: rgb(148, 148, 148);
+    line-height: 2.8em !important;
+}
+.submit{
+ border: 1px solid #8392ff;
+ display: block;
+ width: 150px;
+ padding: 13px 0px;
+ box-shadow: 0px 0px 4px #8392ff;
+ font-size: 20px;
+ font-weight: 600;
+
+}
+
+.programmer {
+    margin-top: 45% !important;
+    box-shadow: 1px 7px 12px 4px #ddd;
+    position: relative;
+}
+.programmer img {
+    width: 100px;
+    position: absolute;
+    top: -25%;
+    left: 4%;
+}
+.website{
+    box-shadow: 0px 0px 8px #ddd;
+}
+
+.main-form{
+    box-shadow: 0px 0px 8px #ddd !important;
+}
+.contact {
+    text-align: left !important;
+    margin-top: 15% !important;
+}
+.contact ul li {
+    line-height: 42px;
+}
+
+.login{
+    background: rgb(7, 156, 175);
+}
